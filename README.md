@@ -1,4 +1,4 @@
-Real-Time Road Anomaly Detection using DashCam & Raspberry Pi
+**Real-Time Road Anomaly Detection using DashCam & Raspberry Pi**
 
 📌 Project Overview
 This project presents a real-time Road Anomaly Detection System implemented using a Dash Camera / Raspberry Pi Camera and deployed on Raspberry Pi hardware.
